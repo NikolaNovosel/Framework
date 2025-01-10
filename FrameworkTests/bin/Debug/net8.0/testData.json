@@ -1,0 +1,12 @@
+{
+  "parameter": {
+    "operatingSystem": "Paid: Ubuntu Pro",
+    "machine": "n1-standard-1",
+    "gpu": "NVIDIA V100",
+    "ssd": "2x375 GB",
+    "region": "Taiwan (asia-east1)"
+  },
+  "url": {
+    "cloudGooglePage": "https://cloud.google.com/products/calculator"
+  }
+}
